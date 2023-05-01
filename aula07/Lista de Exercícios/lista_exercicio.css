@@ -1,0 +1,75 @@
+/* CSS Document */
+body {
+	background-color:#999;
+	padding:0px;
+	margin:0px;
+	text-align:center;
+	position:relative;
+	font-family:Verdana, Geneva, sans-serif;
+	overflow:auto;
+}
+header {
+	background-color:#F00;
+	color:#FFF;
+	overflow:auto;
+	padding:5px;
+}
+header h1 {
+	margin:0px;
+}
+header h2 {
+	margin:0px;
+}
+header .imgLogoIESB {
+	background-color:#F00;
+	float:left;
+	margin:5px;
+}
+.divIdentificacao {
+	margin: auto;
+	background-color:#FFF;
+	max-width:1000px;
+	width:100%;
+	text-align:center;
+	padding:5px;
+}
+.divIdentificacaoCol {
+	display:inline-table;
+	text-align:left;
+	width:49%;
+}
+.divIdentificacaoCol p{
+	margin:5px;
+}
+.divIdentificacaoCol b{
+	margin-right:10px;
+}
+.divPrincipal{
+	margin: auto;
+	background-color:#FFF;
+	max-width:1000px;
+	width:100%;
+	text-align:left;
+	padding:5px;
+}
+.divPrincipal h3{
+	text-align:center;
+}
+textarea {
+	width:100%;
+	height:100px;
+}
+input[type='button']{
+	margin:5px;
+}
+footer {
+	background-color:#F00;
+	color:#FFF;
+	overflow:auto;
+	text-align:center;
+	padding:10px;
+	width:100%;
+}
+footer p{
+	margin:0px;
+}
